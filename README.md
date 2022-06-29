@@ -2,7 +2,7 @@
 授業で作成したコードを掲載しています。
 
 ## OpenMP.c
-OpenMPを利用して、f(x)= -(x-1)^{2} + 1 
+OpenMPを利用して、<img src="https://latex.codecogs.com/svg.image?f(x)=&space;-(x-1)^{2}&space;&plus;&space;1&space;">
 
 ## client-server.c
 TCP/IPアプリケーションのモデルの実装として、C言語にてソケットインターフェースを利用したクライアント・サーバモデルの構築を行なった。
